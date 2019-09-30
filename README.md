@@ -4,7 +4,7 @@
 
 ### Solderless breadboards 1
 
-One of the most common ways to start building your project is to use a solderless breadboard. Here's my switch demo circuit in pure prototyping mode. There's an [RGB LED](https://www.sparkfun.com/products/10821), and an [LED button](https://www.sparkfun.com/products/10440) to the right of the Argon. This version uses long flexible wires, which are easy to set up and are easily reusable.
+One of the most common ways to start building your project is to use a solderless breadboard. Here's my switch demo circuit in pure prototyping mode. There's an [RGB LED](https://www.sparkfun.com/products/10821) and an [LED button](https://www.sparkfun.com/products/10440) to the right of the Argon. This version uses long flexible wires, which are easy to set up and are easily reusable.
 
 ![Breadboard](images/bread1.jpg)
 
@@ -49,13 +49,13 @@ Once you've built and tested your solderless breadboard with solid wires, the ne
 ![Perma-Proto with Argon](images/perma-proto6.jpg)
 
 
-One thing: Resist the temptation to solder your device in place. Always use sockets, otherwise it's really a pain to troubleshoot or swap out the device if a problem occurs.
+Resist the temptation to solder your device in place. Always use sockets, otherwise it's really a pain to troubleshoot or swap out the device if a problem occurs.
 
-- Gen 3 feather (1x [12-pin](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC121LFBN-RC/S6100-ND/807231), 1x [16-pin](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC161LFBN-RC/S7014-ND/810154))
-- Photon (2x [12-pin](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC121LFBN-RC/S6100-ND/807231))
-- Electron (2x [18-pin](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC181LFBN-RC/S7016-ND/810156))
+- Gen 3 feather (Argon, Boron, Xenon): 1x [12-pin](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC121LFBN-RC/S6100-ND/807231), 1x [16-pin](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC161LFBN-RC/S7014-ND/810154)
+- Photon: 2x [12-pin](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC121LFBN-RC/S6100-ND/807231)
+- Electron: 2x [18-pin](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC181LFBN-RC/S7016-ND/810156)
 
-Note that you should use these headers. The spacing between rows is not the same as most IC sockets. Plus, the pins on Particle devices are square, not the flat pins like IC chips, and wouldn't fit securely in an IC socket.
+Note that you should use these headers or ones like them. The spacing between rows is not the same as most IC sockets. Plus, the pins on Particle devices are square, not the flat like IC chip leads, and wouldn't fit securely in an IC socket.
 
 ![Perma-Proto Comparison](images/perma-proto1.jpg)
 ![Perma-Proto Bottom](images/perma-proto2.jpg)
@@ -74,7 +74,7 @@ All you need to do is transfer over the component and wires and solder them to t
 
 One of the nice features of the Gen 3 prototyping devices is the use of the [Adafruit Feather form-factor](https://learn.adafruit.com/adafruit-feather/feather-specification). Not only does this allow the devices to be easily swapped, but there are a large number of accessories like displays, GPS modules, and sensors already built in the Feather form-factor. Using a doubler, tripler, or quadrupler, you can add these to your project with no loose wires and no soldering!
 
-However, sometimes you want something a little more custom. In this version, instead of using a big perma-proto board, you can use a little FeatherWing solder prototype board. This is one in a Feather Doubler with an Argon:
+However, sometimes you want something a little more custom. In this version, instead of using a big perma-proto board, I used a little FeatherWing solder prototype board. This is one in a Feather Doubler with an Argon:
 
 ![Feather Prototype Board](images/feather-proto1.jpg)
 
@@ -90,7 +90,7 @@ While the previous soldered boards all work fine, you can really make things loo
 
 ![Custom PTH board](images/pth3.jpg)
 
-I create the board schematic in [Eagle CAD](https://www.autodesk.com/products/eagle/overview). This small two-layer board can be done in the free version of Eagle CAD. The various schematic and board files are in the **eagle** directory in the Github repository.
+I created the board schematic in [Eagle CAD](https://www.autodesk.com/products/eagle/overview). This small two-layer board can be done in the free version of Eagle CAD. The various schematic and board files are in the **eagle** directory in the Github repository.
 
 ![Schematic](images/schematic1.png)
 
