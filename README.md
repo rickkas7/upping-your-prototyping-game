@@ -147,7 +147,7 @@ And here's the board after reflow soldering:
 | Quan | Item | Example | Price | 
 | :--: | :--- | :--- | ---: |
 | 1 | LED tactile button | [SparkFun](https://www.sparkfun.com/products/10440) | $2.10 |
-| 1 | RGB LED | [Cree CLMVC-FKA-CL1D1L71BB7C3C3](https://www.digikey.com/product-detail/en/cree-inc/CLMVC-FKA-CL1D1L71BB7C3C3/CLMVC-FKA-CL1D1L71BB7C3C3CT-ND/9094273 CLMVC-FKA-CL1D1L71BB7C3C3) | $0.19 |
+| 1 | RGB LED | [Cree CLMVC-FKA-CL1D1L71BB7C3C3](https://www.digikey.com/product-detail/en/cree-inc/CLMVC-FKA-CL1D1L71BB7C3C3/CLMVC-FKA-CL1D1L71BB7C3C3CT-ND/9094273) | $0.19 |
 |   | Male Header Pins | [Sullins PRPC040SAAN-RC](https://www.digikey.com/product-detail/en/PRPC040SAAN-RC/S1011EC-40-ND/2775214) |  |
 | 2 | 33 ohm resistor 0603 | [Panasonic](https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3EKF33R0V/P33.0HCT-ND/1746765) | | 
 | 2 | 68 ohm resistor 0603 | [Panasonic](https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3EKF68R0V/P68.0HCT-ND/1746805) | |
@@ -174,7 +174,7 @@ The schematic is the same, but the Eagle board layout is different:
 | Quan | Item | Example | Price | 
 | :--: | :--- | :--- | ---: |
 | 1 | LED tactile button | [SparkFun](https://www.sparkfun.com/products/10440) | $2.10 |
-| 1 | RGB LED | [Cree CLMVC-FKA-CL1D1L71BB7C3C3](https://www.digikey.com/product-detail/en/cree-inc/CLMVC-FKA-CL1D1L71BB7C3C3/CLMVC-FKA-CL1D1L71BB7C3C3CT-ND/9094273 CLMVC-FKA-CL1D1L71BB7C3C3) | $0.19 |
+| 1 | RGB LED | [Cree CLMVC-FKA-CL1D1L71BB7C3C3](https://www.digikey.com/product-detail/en/cree-inc/CLMVC-FKA-CL1D1L71BB7C3C3/CLMVC-FKA-CL1D1L71BB7C3C3CT-ND/9094273) | $0.19 |
 | 1 | 12-pin header | [Sullins](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC121LFBN-RC/S6100-ND/807231) | $0.78 |
 | 1 | 16-pin header | [Sullins](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC161LFBN-RC/S7014-ND/810154) | $0.98 |
 | 2 | 33 ohm resistor 0603 | [Panasonic](https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3EKF33R0V/P33.0HCT-ND/1746765) | | 
@@ -197,7 +197,7 @@ The Gen 2 devices (Photon, P1, Electron, and E Series) use different pins becaus
 | Quan | Item | Example | Price | 
 | :--: | :--- | :--- | ---: |
 | 1 | LED tactile button | [SparkFun](https://www.sparkfun.com/products/10440) | $2.10 |
-| 1 | RGB LED | [Cree CLMVC-FKA-CL1D1L71BB7C3C3](https://www.digikey.com/product-detail/en/cree-inc/CLMVC-FKA-CL1D1L71BB7C3C3/CLMVC-FKA-CL1D1L71BB7C3C3CT-ND/9094273 CLMVC-FKA-CL1D1L71BB7C3C3) | $0.19 |
+| 1 | RGB LED | [Cree CLMVC-FKA-CL1D1L71BB7C3C3](https://www.digikey.com/product-detail/en/cree-inc/CLMVC-FKA-CL1D1L71BB7C3C3/CLMVC-FKA-CL1D1L71BB7C3C3CT-ND/9094273) | $0.19 |
 | 2 | 12-pin header | [Sullins](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC121LFBN-RC/S6100-ND/807231) | $0.78 |
 | 2 | 33 ohm resistor 0603 | [Panasonic](https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3EKF33R0V/P33.0HCT-ND/1746765) | | 
 | 2 | 68 ohm resistor 0603 | [Panasonic](https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3EKF68R0V/P68.0HCT-ND/1746805) | |
@@ -214,7 +214,7 @@ The Electron board is nearly identical to the Photon, except it has [18-pin head
 | Quan | Item | Example | Price | 
 | :--: | :--- | :--- | ---: |
 | 1 | LED tactile button | [SparkFun](https://www.sparkfun.com/products/10440) | $2.10 |
-| 1 | RGB LED | [Cree CLMVC-FKA-CL1D1L71BB7C3C3](https://www.digikey.com/product-detail/en/cree-inc/CLMVC-FKA-CL1D1L71BB7C3C3/CLMVC-FKA-CL1D1L71BB7C3C3CT-ND/9094273 CLMVC-FKA-CL1D1L71BB7C3C3) | $0.19 |
+| 1 | RGB LED | [Cree CLMVC-FKA-CL1D1L71BB7C3C3](https://www.digikey.com/product-detail/en/cree-inc/CLMVC-FKA-CL1D1L71BB7C3C3/CLMVC-FKA-CL1D1L71BB7C3C3CT-ND/9094273) | $0.19 |
 | 2 | 18-pin header | [Sullins](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC181LFBN-RC/S7016-ND/810156) | $1.10 |
 | 2 | 33 ohm resistor 0603 | [Panasonic](https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3EKF33R0V/P33.0HCT-ND/1746765) | | 
 | 2 | 68 ohm resistor 0603 | [Panasonic](https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3EKF68R0V/P68.0HCT-ND/1746805) | |
@@ -247,7 +247,7 @@ Board
 | Quan | Item | Example | Price | 
 | :--: | :--- | :--- | ---: |
 | 1 | LED tactile button | [SparkFun](https://www.sparkfun.com/products/10440) | $2.10 |
-| 2| RGB LED | [Cree CLMVC-FKA-CL1D1L71BB7C3C3](https://www.digikey.com/product-detail/en/cree-inc/CLMVC-FKA-CL1D1L71BB7C3C3/CLMVC-FKA-CL1D1L71BB7C3C3CT-ND/9094273 CLMVC-FKA-CL1D1L71BB7C3C3) | $0.19 |
+| 2 | RGB LED | [Cree CLMVC-FKA-CL1D1L71BB7C3C3](https://www.digikey.com/product-detail/en/cree-inc/CLMVC-FKA-CL1D1L71BB7C3C3/CLMVC-FKA-CL1D1L71BB7C3C3CT-ND/9094273) | $0.19 |
 | 4 | 33 ohm resistor 0603 | [Panasonic](https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3EKF33R0V/P33.0HCT-ND/1746765) | | 
 | 4 | 68 ohm resistor 0603 | [Panasonic](https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3EKF68R0V/P68.0HCT-ND/1746805) | |
 | 1 | 100 ohm resistor 0603 | [Panasonic](https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3GEYJ101V/P100GCT-ND/134714) | |
@@ -285,7 +285,7 @@ Board:
 | Quan | Item | Example | Price | 
 | :--: | :--- | :--- | ---: |
 | 1 | LED tactile button | [SparkFun](https://www.sparkfun.com/products/10440) | $2.10 |
-| 2| RGB LED | [Cree CLMVC-FKA-CL1D1L71BB7C3C3](https://www.digikey.com/product-detail/en/cree-inc/CLMVC-FKA-CL1D1L71BB7C3C3/CLMVC-FKA-CL1D1L71BB7C3C3CT-ND/9094273 CLMVC-FKA-CL1D1L71BB7C3C3) | $0.19 |
+| 2 | RGB LED | [Cree CLMVC-FKA-CL1D1L71BB7C3C3](https://www.digikey.com/product-detail/en/cree-inc/CLMVC-FKA-CL1D1L71BB7C3C3/CLMVC-FKA-CL1D1L71BB7C3C3CT-ND/9094273) | $0.19 |
 | 4 | 33 ohm resistor 0603 | [Panasonic](https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3EKF33R0V/P33.0HCT-ND/1746765) | | 
 | 4 | 68 ohm resistor 0603 | [Panasonic](https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3EKF68R0V/P68.0HCT-ND/1746805) | |
 | 1 | 10K ohm resistor 0603 | [Panasonic](https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-PA3J103V/P10KBZCT-ND/5036237) | |
